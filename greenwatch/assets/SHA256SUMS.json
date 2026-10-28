@@ -1,0 +1,21 @@
+{
+  "assets/maps/bengaluru.geojson": "586dcfe32abbdc4f917514790c6e5dc49cf66645971bbb9f6508655f78578af7",
+  "assets/maps/india.geojson": "5c98c89c52c2ac181df56a0e44e2b97784dfd9821efa4f073321a746945f3e5e",
+  "assets/maps/map-ui.js": "6ae534a92415c4658f5654231ba8fc10527fe9014d032826375fce2f17412b6f",
+  "assets/maps/SOURCES.txt": "0f8a090a41bdff24ef3c18f26407bbfc926b466df70be5cee86b8ade75cf05ea",
+  "assets/model/group1-shard1of5": "0e7af0f713e98521252321f7f84892c31cefccccec3ac64c84e5065b75ed5646",
+  "assets/model/group1-shard2of5": "74cc6cfc2c4510c9cd81b8ad4cebf6f6a8f305119bb365ce0eb96276da38519a",
+  "assets/model/group1-shard3of5": "50383033f893eae136392a403e8f70ade5efd90867df5695c4ca5ac640e14f38",
+  "assets/model/group1-shard4of5": "d856dc534c780068bbf6c666ce1516df2c8433d87578aa31fcdf197de7058cc2",
+  "assets/model/group1-shard5of5": "3d356f1fb6dfca6af78c56db34d9326706d0196e303f9de6b04f236ca79ed309",
+  "assets/model/model.json": "3770b2528339b1e3340cb74360e1e40401816b009779aeb8d0cce3a4353ea3a9",
+  "assets/vendor/coco-ssd.min.js": "8875b8c1bb57723990c9d6506226e0e51cd21b8b6943eb53201086096de52df5",
+  "assets/vendor/images/layers-2x.png": "066daca850d8ffbef007af00b06eac0015728dee279c51f3cb6c716df7c42edf",
+  "assets/vendor/images/layers.png": "1dbbe9d028e292f36fcba8f8b3a28d5e8932754fc2215b9ac69e4cdecf5107c6",
+  "assets/vendor/images/marker-icon-2x.png": "00179c4c1ee830d3a108412ae0d294f55776cfeb085c60129a39aa6fc4ae2528",
+  "assets/vendor/images/marker-icon.png": "574c3a5cca85f4114085b6841596d62f00d7c892c7b03f28cbfa301deb1dc437",
+  "assets/vendor/images/marker-shadow.png": "264f5c640339f042dd729062cfc04c17f8ea0f29882b538e3848ed8f10edb4da",
+  "assets/vendor/leaflet.css": "a7837102824184820dfa198d1ebcd109ff6d0ff9a2672a074b9a1b4d147d04c6",
+  "assets/vendor/leaflet.js": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a",
+  "assets/vendor/tf.min.js": "300dfae273d20b4046f46a06d735688f03675a807561e9bcb5f664eb2f3d2831"
+}

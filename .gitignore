@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*_pi_key*
+*known_hosts*
+wifi-password
+hostapd.conf
+*.deb
+*.tgz
+*.zip
